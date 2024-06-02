@@ -9,7 +9,7 @@ body{
   place-items: center; /* Centers children both vertically and horizontally */
   min-height: 100vh;
   margin: 0;
-  color: white;
+  color: rgb(33, 151, 201);
   transition: all 0.5s ease;
 }
 
